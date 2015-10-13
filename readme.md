@@ -1,6 +1,6 @@
 # call-back
 
-> node style callback uitl.
+> node style callback util.
 
 __Why?!__
 
